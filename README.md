@@ -30,3 +30,4 @@ Can you gaurantee my communication is secure?
 
 No. I take all precautions to ensure that my own data and devices are without fault. I cannot and **will** not be held responsible for any issues arrising from security implications. 
 
+[![Build Status](https://travis-ci.org/PartTimeLegend/PGPKeys.png?branch=master)](https://travis-ci.org/PartTimeLegend/PGPKeys)
