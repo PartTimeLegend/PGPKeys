@@ -1,0 +1,26 @@
+{
+  "name": "AntonyBaileyPGPKeys",
+  "version": "0.0.1",
+  "description": "Installs Antony Bailey's PGP Key",
+  "scripts": {
+    "start": "sh install.sh",
+    "test": "sh install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PartTimeLegend/PGPKeys.git"
+  },
+  "dependencies": {
+    "node-curl": "0.3.1"
+  },
+  "devDependencies": {
+    "node-curl": "0.3.1"
+  },
+  "keywords": [
+    "bitcoin",
+    "buttercoin"
+  ],
+  "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
