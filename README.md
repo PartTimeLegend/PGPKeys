@@ -32,4 +32,6 @@ No. I take all precautions to ensure that my own data and devices are without fa
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/PGPKeys.png?branch=master)](https://travis-ci.org/PartTimeLegend/PGPKeys) [![Dependency Status](https://gemnasium.com/PartTimeLegend/PGPKeys.png)](https://gemnasium.com/PartTimeLegend/PGPKeys)
 
+![](https://www.codeship.io/projects/f46dc270-61ea-0131-e84a-72a9c118fe1f/status)
+
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=[![Dependency Status](https://gemnasium.com/PartTimeLegend/PGPKeys.png)](https://gemnasium.com/PartTimeLegend/PGPKeys)&title=PGP Keys&language=&tags=github&category=software) 
