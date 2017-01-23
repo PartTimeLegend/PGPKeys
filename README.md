@@ -30,4 +30,5 @@ Can you gaurantee my communication is secure?
 
 No. I take all precautions to ensure that my own data and devices are without fault. I cannot and **will** not be held responsible for any issues arrising from security implications. 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/99b08c3dce7e422b85f15c791877ce89)](https://www.codacy.com/app/PartTimeLegend/PGPKeys?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/PGPKeys&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/PartTimeLegend/PGPKeys.png?branch=master)](https://travis-ci.org/PartTimeLegend/PGPKeys) [![Dependency Status](https://gemnasium.com/PartTimeLegend/PGPKeys.png)](https://gemnasium.com/PartTimeLegend/PGPKeys)
